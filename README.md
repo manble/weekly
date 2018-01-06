@@ -1,6 +1,13 @@
 weekly
 =========
-收集汇总和前端开发相关的技术类文章，周末更新，每次上限为5篇。欢迎大家在下面补充。
+收集汇总和前端开发相关的技术类文章，周末更新。欢迎大家补充。
+
+### 2018.01.06
+- [你应该知道的浏览器缓存知识](https://excaliburhan.com/post/things-you-should-know-about-browser-cache.html)
+- [High-performance webpack config for front-end delivery](https://www.codementor.io/drewpowers/high-performance-webpack-config-for-front-end-delivery-90sqic1qa)
+- [深入理解React源码 - 首次渲染 I](https://zhuanlan.zhihu.com/p/32520194)
+- [深入理解React源码 - 首次渲染 II](https://zhuanlan.zhihu.com/p/32538163)
+- [深入理解React源码 - 首次渲染 III](https://zhuanlan.zhihu.com/p/32668091)
 
 
 ### 2018.01.01
