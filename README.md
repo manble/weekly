@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，周末更新。欢迎大家补充。
 
+### 2018.01.13
+- [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
+- [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
+- [CSS Grid Layout secrets revealed](http://www.creativebloq.com/features/css-grid-layout-secrets-revealed)
+- [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
+- [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)[react设计思想](https://github.com/react-guide/react-basic)
+
+
 ### 2018.01.06
 - [你应该知道的浏览器缓存知识](https://excaliburhan.com/post/things-you-should-know-about-browser-cache.html)
 - [High-performance webpack config for front-end delivery](https://www.codementor.io/drewpowers/high-performance-webpack-config-for-front-end-delivery-90sqic1qa)
