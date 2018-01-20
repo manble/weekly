@@ -2,12 +2,20 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，周末更新。欢迎大家补充。
 
+### 2018.01.20
+- [常见排序算法之JavaScript实现](https://zhuanlan.zhihu.com/p/28130533)
+- [亿级Web系统搭建——单机到分布式集群](https://www.kancloud.cn/kancloud/web-million-build/64443)
+- [Can (a ==1 && a== 2 && a==3) ever evaluate to true?](https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true)
+- [Web 应用内存分析与内存泄漏定位](https://zhuanlan.zhihu.com/p/30703640)
+- [2017 年的 JavaScript Testing 盘点](https://zhuanlan.zhihu.com/p/32702421)
+
+
 ### 2018.01.13
 - [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
 - [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 - [CSS Grid Layout secrets revealed](http://www.creativebloq.com/features/css-grid-layout-secrets-revealed)
 - [What’s New in HTML 5.2?](https://bitsofco.de/whats-new-in-html-5-2/)
-- [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)[react设计思想](https://github.com/react-guide/react-basic)
+- [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)  [react设计思想](https://github.com/react-guide/react-basic)
 
 
 ### 2018.01.06
