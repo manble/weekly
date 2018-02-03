@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.02.03
+- [REACT, REDUX AND JAVASCRIPT ARCHITECTURE](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
+- [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [Using CSS Clip Path to Create Interactive Effects](https://css-tricks.com/using-css-clip-path-create-interactive-effects/)
+- [Recreating the GitHub Contribution Graph with CSS Grid Layout](https://bitsofco.de/github-contribution-graph-css-grid/)
+- [Vitual DOM 的内部工作原理](http://efe.baidu.com/blog/the-inner-workings-of-virtual-dom/)
+
 ### 2018.01.27
 - [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://rollbar.com/blog/top-10-javascript-errors/)
 - [Using CSS Clip Path to Create Interactive Effects](https://css-tricks.com/using-css-clip-path-create-interactive-effects/)
