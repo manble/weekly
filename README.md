@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.02.11
+- [JavaScript 正则表达式匹配汉字](https://jhuang.me/2018/01/26/JavaScript-%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D%E6%B1%89%E5%AD%97/)
+- [Web 前端中的增强现实（AR）开发技术](http://geekplux.com/2018/01/18/augmented-reality-development-tech-in-web-frontend.html)
+- [基于Web Audio API实现音频可视化效果](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API)
+- [Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/)
+- [Why Developers Love Node.js & what's their main issue with it? Survey Results](https://blog.risingstack.com/why-developers-love-node-js-2018-survey/)
+
 ### 2018.02.03
 - [REACT, REDUX AND JAVASCRIPT ARCHITECTURE](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
 - [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
