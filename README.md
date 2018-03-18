@@ -2,8 +2,16 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.03.18
+- [Swapping Images with the Sizes Attribute](https://www.filamentgroup.com/lab/sizes-swap/)
+- [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
+- [解读 JavaScript 之内存管理和常见内存泄露处理](http://www.oschina.net/translate/how-does-javascript-actually-work-part-3)
+- [JS内存泄漏排查方法](http://www.ayqy.net/blog/js%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E6%8E%92%E6%9F%A5%E6%96%B9%E6%B3%95/)
+- [Awesome Node: 600+ Packages, Resources and Links](https://github.com/sindresorhus/awesome-nodejs)
+
+
 ### 2018.03.11
-- [App 页面上的数据如何追踪和统计？](https://www.zhihu.com/question/36924457 )
+- [App 页面上的数据如何追踪和统计？](https://www.zhihu.com/question/36924457)
 - [危险的 target="_blank" 与 “opener”](https://knownsec-fed.com/2018-03-01-wei-xian-de-targetblank-yu-opener/)
 - [看清楚真正的 Webpack 插件](https://zoumiaojiang.com/article/what-is-real-webpack-plugin/)
 - [Beyond React 16: Time Slicing and Suspense API](https://auth0.com/blog/time-slice-suspense-react16/)
