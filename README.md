@@ -3,6 +3,14 @@ weekly
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
 ### 2018.03.18
+- [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+- [The best JavaScript debugging tools for 2018 and beyond](https://raygun.com/javascript-debugging-tools)
+- [JavaScript vs. TypeScript vs. ReasonML](http://2ality.com/2018/03/javascript-typescript-reasonml.html)
+- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)
+- [品牌体验趋势 2018](https://isux.tencent.com/articles/brand-experience-trends-2018.html)
+
+
+### 2018.03.18
 - [Swapping Images with the Sizes Attribute](https://www.filamentgroup.com/lab/sizes-swap/)
 - [React Tutorial: A Comprehensive Guide to learning React.js in 2018](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/)
 - [解读 JavaScript 之内存管理和常见内存泄露处理](http://www.oschina.net/translate/how-does-javascript-actually-work-part-3)
