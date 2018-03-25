@@ -2,7 +2,7 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
-### 2018.03.18
+### 2018.03.25
 - [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [The best JavaScript debugging tools for 2018 and beyond](https://raygun.com/javascript-debugging-tools)
 - [JavaScript vs. TypeScript vs. ReasonML](http://2ality.com/2018/03/javascript-typescript-reasonml.html)
