@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.04.01
+- [精读《React's new Context API》](https://zhuanlan.zhihu.com/p/33989091)
+- [H5离线缓存机制-manifest](http://www.cnblogs.com/kangaoxiaoshi/p/5100276.html)
+- [讲讲PWA](https://segmentfault.com/a/1190000012353473)
+- [23种设计模式](https://www.cnblogs.com/tongkey/p/7170826.html)
+- [API设计原则 – QT官网的设计实践总结](https://coolshell.cn/articles/18024.html)
+
+
 ### 2018.03.25
 - [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [The best JavaScript debugging tools for 2018 and beyond](https://raygun.com/javascript-debugging-tools)
