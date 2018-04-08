@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+
+### 2018.04.08
+- [import和require的区别](https://www.cnblogs.com/sunshq/p/7922182.html)
+- [怎么画一条0.5px的边](https://juejin.im/post/5ab65f40f265da2384408a95)
+- [Google JavaScript Style Guide](http://google.github.io/styleguide/jsguide.html)
+- [全栈与大前端，前端工程师进阶该如何抉择？](http://www.infoq.com/cn/articles/full-stack-front-end)
+- [如何组建理想中的团队？](http://36kr.com/p/220321.html)
+
 ### 2018.04.01
 - [精读《React's new Context API》](https://zhuanlan.zhihu.com/p/33989091)
 - [H5离线缓存机制-manifest](http://www.cnblogs.com/kangaoxiaoshi/p/5100276.html)
