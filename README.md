@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.04.15
+- [Optimizing React:Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
+- [Write Your Own Node.js Promise Library from Scratch](http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html)
+- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)
+- [你离高效制作动画只差一篇文章的距离](https://isux.tencent.com/articles/efficient-animation.html)
+- [为什么说MVP已死，MAP当道](https://www.uisdc.com/minimum-awesome-product)
+
 
 ### 2018.04.08
 - [import和require的区别](https://www.cnblogs.com/sunshq/p/7922182.html)
