@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.04.22
+- [Advanced Node.js Project Structure Tutorial](https://blog.codeship.com/advanced-node-js-project-structure-tutorial/)
+- [Going Offline](https://alistapart.com/article/going-offline)
+- [详解JavaScript中的Event Loop（事件循环）机制](https://zhuanlan.zhihu.com/p/33058983)
+- [浮点数误差](https://github.com/camsong/blog/issues/9)
+- [10 tips for becoming a better programmer](https://www.techrepublic.com/article/10-tips-for-becoming-a-better-programmer/)
+
+
 ### 2018.04.15
 - [Optimizing React:Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 - [Write Your Own Node.js Promise Library from Scratch](http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html)
