@@ -2,6 +2,15 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+
+### 2018.04.29
+- [How To Create An Audio/Video Recording App With React Native: An In-Depth Tutorial](https://www.smashingmagazine.com/2018/04/audio-video-recording-react-native-expo/)
+- [Grid to Flex: Flexbox Fallbacks for 4 CSS Grid Approaches](http://www.gridtoflex.com/)
+- [Webpack基本架构浅析](http://blog.zxrcool.com/2018/04/19/Webpack%E5%9F%BA%E6%9C%AC%E6%9E%B6%E6%9E%84%E6%B5%85%E6%9E%90/)
+- [JavaScript反调试技巧](http://www.freebuf.com/articles/system/163579.html)
+- [超大型 JavaScript 应用的设计哲学](https://zhuanlan.zhihu.com/p/35929167)
+
+
 ### 2018.04.22
 - [Advanced Node.js Project Structure Tutorial](https://blog.codeship.com/advanced-node-js-project-structure-tutorial/)
 - [Going Offline](https://alistapart.com/article/going-offline)
