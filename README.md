@@ -2,12 +2,20 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.05.13
+- [New CSS Features That Are Changing Web Design](https://www.smashingmagazine.com/2018/05/future-of-web-design/)
+- [React v16.3.0: New lifecycles and context API](https://reactjs.org/blog/2018/03/29/react-v-16-3.html)
+- [Machine Learning-Driven Bundling. The Future of JavaScript Tooling.](https://blog.mgechev.com/2018/03/18/machine-learning-data-driven-bundling-webpack-javascript-markov-chain-angular-react/)
+- [How You Can Start Contributing to Node.js Today](https://nodesource.com/blog/how-you-can-start-contributing-to-node-js-today)
+- [从源码全面剖析 React 组件更新机制](https://zhuanlan.zhihu.com/p/35801438)
+
 ### 2018.05.06
 - [图说 ES Modules](https://segmentfault.com/a/1190000014318751)
 - [彻底理解浏览器的缓存机制](https://heyingye.github.io/2018/04/16/%E5%BD%BB%E5%BA%95%E7%90%86%E8%A7%A3%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/)
 - [Scheduling: setTimeout and setInterval](http://javascript.info/settimeout-setinterval)
 - [实战笔记：Jenkins打造强大的前端自动化工作流](https://juejin.im/post/5ad1980e6fb9a028c42ea1be)
 - [Tobias Koppers：我当初为什么写webpack](https://zcfy.cc/article/interview-with-webpack-founder-tobias-koppers)
+
 
 ### 2018.04.29
 - [How To Create An Audio/Video Recording App With React Native: An In-Depth Tutorial](https://www.smashingmagazine.com/2018/04/audio-video-recording-react-native-expo/)
