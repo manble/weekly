@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.05.19
+- [Advanced React Patterns](https://frontendmasters.com/courses/advanced-react-patterns/)
+- [Understanding How Node.js Release Lines Work](https://nodesource.com/blog/understanding-how-node-js-release-lines-work)
+- [Testing Strategies for React and Redux](https://hacks.mozilla.org/2018/04/testing-strategies-for-react-and-redux/)
+- [NEW VERSION OF THE ROADMAP OF WEB APPLICATIONS ON MOBILE](https://www.w3.org/blog/news/archives/7006)
+- [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md)
+
 ### 2018.05.13
 - [New CSS Features That Are Changing Web Design](https://www.smashingmagazine.com/2018/05/future-of-web-design/)
 - [React v16.3.0: New lifecycles and context API](https://reactjs.org/blog/2018/03/29/react-v-16-3.html)
@@ -36,7 +43,7 @@ weekly
 ### 2018.04.15
 - [Optimizing React:Virtual DOM explained](https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained)
 - [Write Your Own Node.js Promise Library from Scratch](http://thecodebarbarian.com/write-your-own-node-js-promise-library-from-scratch.html)
-- [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](http://www.dailichun.com/2018/01/21/js_singlethread_eventloop.html)
+- [JSBridge的实现](http://www.dailichun.com/2017/12/24/quickhybrid_jsbridge.html)
 - [你离高效制作动画只差一篇文章的距离](https://isux.tencent.com/articles/efficient-animation.html)
 - [为什么说MVP已死，MAP当道](https://www.uisdc.com/minimum-awesome-product)
 
