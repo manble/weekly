@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.05.27
+- [An Initial Threading Implementation for Node using 'Workers'](https://github.com/nodejs/node/pull/20876)
+- [Debugging Modern Web Applications](https://hacks.mozilla.org/2018/05/debugging-modern-web-applications/)
+- [Page Transitions for Everyone](https://css-tricks.com/page-transitions-for-everyone/)
+- [大学没学过数学也要理解 CSS3 transform 中的 matrix](https://fanmingfei.com/posts/CSS3_Transform_Matrix_Intro.html)
+- [什么是 Transducer](https://fanmingfei.com/posts/What_is_Transducer.html)
+
+
 ### 2018.05.19
 - [Advanced React Patterns](https://frontendmasters.com/courses/advanced-react-patterns/)
 - [Understanding How Node.js Release Lines Work](https://nodesource.com/blog/understanding-how-node-js-release-lines-work)
