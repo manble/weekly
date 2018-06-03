@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.06.03
+- [How to Design Services for Continuous Deployment: 3 Best Practices](https://circleci.com/blog/how-to-design-services-for-continuous-deployment-3-best-practices/)
+- [Jest 23: 🔥 Blazing Fast Delightful Testing](https://facebook.github.io/jest/blog/2018/05/29/jest-23-blazing-fast-delightful-testing.html)
+- [UTC is Enough for Everyone, Right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
+- [To Yarn and Back (to npm) Again](https://mixmax.com/blog/to-yarn-and-back-again-npm)
+- [The Service Worker Cookbook: Practical Examples of Using Service Workers](https://serviceworke.rs/)
+
 ### 2018.05.27
 - [An Initial Threading Implementation for Node using 'Workers'](https://github.com/nodejs/node/pull/20876)
 - [Debugging Modern Web Applications](https://hacks.mozilla.org/2018/05/debugging-modern-web-applications/)
