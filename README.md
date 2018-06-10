@@ -2,6 +2,16 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+
+
+### 2018.06.10
+- [Puppeteer 1.5 Released: Control Headless Chrome from Node](https://pptr.dev/)
+- [How to start with variable fonts on the web](https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html)
+- [A Reference Guide For Typography In Mobile Web Design](https://www.smashingmagazine.com/2018/06/reference-guide-typography-mobile-web-design/)
+- [JavaScript instanceof 运算符深入剖析](https://www.ibm.com/developerworks/cn/web/1306_jiangjj_jsinstanceof/)
+- [重大消息：NodeJs之父发布下一代Node--Deno](https://cnodejs.org/topic/5b0f9ba357137f22415c47b5)
+
+
 ### 2018.06.03
 - [How to Design Services for Continuous Deployment: 3 Best Practices](https://circleci.com/blog/how-to-design-services-for-continuous-deployment-3-best-practices/)
 - [Jest 23: 🔥 Blazing Fast Delightful Testing](https://facebook.github.io/jest/blog/2018/05/29/jest-23-blazing-fast-delightful-testing.html)
