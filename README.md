@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.06.24
+- [WRITING YOUR OWN ESLINT PLUGINS](https://frontendmayhem.com/writing-your-own-eslint-plugins/)
+- [Why Do JavaScript Test Frameworks Use describe() and beforeEach()?](https://www.bignerdranch.com/blog/why-do-javascript-test-frameworks-use-describe-and-beforeeach/)
+- [A data templating language for app and tool developers](https://jsonnet.org/)
+- [结合源码分析 Node.js 模块加载与运行原理](http://efe.baidu.com/blog/nodejs-module-analyze/)
+- [如何提高代码的可读性](https://zhuanlan.zhihu.com/p/34982747)
+
 ### 2018.06.17
 - [Image Inconsistencies: How and When Browsers Download Images Written by Harry Roberts on CSS Wizardry.](https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/)
 - [The new (and old) CSS units you've never heard about](https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1)
