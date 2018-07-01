@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.07.01
+- [CSS Basic User Interface Module Level 3](https://www.w3.org/TR/2018/REC-css-ui-3-20180621/)
+- [Drawing Images with CSS Gradients](https://css-tricks.com/drawing-images-with-css-gradients/)
+- [How to build powerful REST APIs blazingly fast with Node.js](https://resthapi.com/blog/2018/06/26/How-To-Build-Powerful-APIs-Blazingly-Fast-With-Nodejs.html)
+- [PWA Minimus: A minimal PWA checklist](https://mobiforge.com/design-development/pwa-minimus-a-minimal-pwa-checklist)
+- [ECMAScript 2018 Language Spec Published](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+
+
 ### 2018.06.24
 - [WRITING YOUR OWN ESLINT PLUGINS](https://frontendmayhem.com/writing-your-own-eslint-plugins/)
 - [Why Do JavaScript Test Frameworks Use describe() and beforeEach()?](https://www.bignerdranch.com/blog/why-do-javascript-test-frameworks-use-describe-and-beforeeach/)
