@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.07.08
+- [An adventure in sparse arrays](https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays)
+- [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/)
+- [7 tips to handle undefined in JavaScript](https://dmitripavlutin.com/7-tips-to-handle-undefined-in-javascript/)
+- [How JavaScript Timers Work](http://ejohn.org/blog/how-javascript-timers-work/)
+- [揭开HTTP的神秘面纱](https://finget.github.io/2018/07/03/http/)
+
+
 ### 2018.07.01
 - [CSS Basic User Interface Module Level 3](https://www.w3.org/TR/2018/REC-css-ui-3-20180621/)
 - [Drawing Images with CSS Gradients](https://css-tricks.com/drawing-images-with-css-gradients/)
