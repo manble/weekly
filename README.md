@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.07.15
+- [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
+- [Toast UI ImageEditor](https://github.com/nhnent/tui.image-editor)
+- [Fast ANSI Color Formatting for Terminal Text](https://github.com/lukeed/kleur)
+- [图解WebGL&Three.js工作原理](https://www.cnblogs.com/wanbo/p/6754066.html)
+- [运维不给升级 Node 版本怎么办](https://yuque.com/egg/nodejs/node-multi-versioning)
+
+
 ### 2018.07.08
 - [An adventure in sparse arrays](https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays)
 - [What Is Redux: A Designer’s Guide](https://www.smashingmagazine.com/2018/07/redux-designers-guide/)
