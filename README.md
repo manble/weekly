@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.07.22
+- [Postmortem for Malicious Packages Published on July 12th, 2018](https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes)
+- [Vue.js or React ? Which you would chose and why?](https://www.reddit.com/r/javascript/comments/8o781t/vuejs_or_react_which_you_would_chose_and_why/e01qn55/)
+- [Airbnb 在 React Native 上下的赌注（二）：技术细节](https://juejin.im/post/5b3b40a26fb9a04fab44e797)
+- [如何不择手段提升scroll事件的性能](https://zhuanlan.zhihu.com/p/30078937)
+- [洞察 video 超能力系列——玩转 mp4](https://techblog.toutiao.com/2018/07/09/untitled-51/)
+
 ### 2018.07.15
 - [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 - [Toast UI ImageEditor](https://github.com/nhnent/tui.image-editor)
