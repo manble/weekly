@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.07.29
+- [The frustrations of using CSS Shapes and CSS Exclusions](https://benfrain.com/the-frustrations-of-using-css-shapes-and-css-exclusions/)
+- [5 hot new CSS features and how to use them](https://www.creativebloq.com/how-to/5-hot-new-css-features-and-how-to-use-them)
+- [Adding Particle Effects to DOM Elements with Canvas](https://css-tricks.com/adding-particle-effects-to-dom-elements-with-canvas/)
+- [Developing Real-Time Web Applications with Server-Sent Events](https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/)
+- [Build a state management system with vanilla JavaScript](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript/)
+
+
 ### 2018.07.22
 - [Postmortem for Malicious Packages Published on July 12th, 2018](https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes)
 - [Vue.js or React ? Which you would chose and why?](https://www.reddit.com/r/javascript/comments/8o781t/vuejs_or_react_which_you_would_chose_and_why/e01qn55/)
