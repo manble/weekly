@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.08.05
+- [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
+- [Building a progressive web app (PWA): No React, no Angular, no Vue](https://blog.logrocket.com/building-a-progressive-web-app-pwa-no-react-no-angular-no-vue-aefdded3b5e)
+- [Xamarin vs React Native: the complete guide](https://www.uruit.com/blog/2018/07/25/xamarin-vs-react-native/)
+- [Developer Roadmaps](https://css-tricks.com/developer-roadmaps/)
+- [回过头看，我很感恩自己做出了这样的选择：石墨文档产品总监罗颖](https://www.uisdc.com/shimo-product-director-interview)
+
+
 ### 2018.07.29
 - [The frustrations of using CSS Shapes and CSS Exclusions](https://benfrain.com/the-frustrations-of-using-css-shapes-and-css-exclusions/)
 - [5 hot new CSS features and how to use them](https://www.creativebloq.com/how-to/5-hot-new-css-features-and-how-to-use-them)
