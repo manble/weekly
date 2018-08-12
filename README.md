@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.08.12
+- [Sending Web Push Notifications from Node.js](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html)
+- [Components, Props and State](https://learnreact.design/2017/08/16/components-props-and-state/)
+- [Let's Write A Module Bundler](https://adamisntdead.com/lets-write-a-module-bundler/)
+- [A Curated Compilation of Node Best Practices](https://github.com/i0natan/nodebestpractices)
+- [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
+
 ### 2018.08.05
 - [The trick to viewport units on mobile](https://css-tricks.com/the-trick-to-viewport-units-on-mobile/)
 - [Building a progressive web app (PWA): No React, no Angular, no Vue](https://blog.logrocket.com/building-a-progressive-web-app-pwa-no-react-no-angular-no-vue-aefdded3b5e)
