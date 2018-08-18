@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.08.18
+- [JavaScript engine fundamentals: optimizing prototypes](https://mathiasbynens.be/notes/prototypes)
+- [An Overview of Buffers in Node.js](http://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html)
+- [How To Develop a Node.js TCP Server Application using PM2 and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-develop-a-node-js-tcp-server-application-using-pm2-and-nginx-on-ubuntu-16-04)
+- [con Fonts vs SVGs – Which One Should You Use In 2018?](https://www.keycdn.com/blog/icon-fonts-vs-svgs/)
+- [The Best JavaScript Data Visualization & Charting Libraries](https://www.codewall.co.uk/the-best-javascript-data-visualization-charting-libraries/)
+
+
 ### 2018.08.12
 - [Sending Web Push Notifications from Node.js](https://thecodebarbarian.com/sending-web-push-notifications-from-node-js.html)
 - [Components, Props and State](https://learnreact.design/2017/08/16/components-props-and-state/)
