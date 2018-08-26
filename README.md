@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.08.26
+- [building a simple static site generator using nodejs](https://smalldata.tech/blog/2018/08/16/building-a-simple-static-site-generator-using-node-js)
+- [Complex numbers in JavaScript](https://beta.observablehq.com/@mateogianolio/complex-numbers-in-javascript)
+- [Creating a Chrome extension in 2018: The good, the bad and the meh](https://checklyhq.com/blog/2018/08/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh/)
+- [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/)
+- [What is a kanban board?](https://www.atlassian.com/agile/kanban/boards)
+
+
 ### 2018.08.18
 - [JavaScript engine fundamentals: optimizing prototypes](https://mathiasbynens.be/notes/prototypes)
 - [An Overview of Buffers in Node.js](http://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html)
