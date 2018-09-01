@@ -2,6 +2,15 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.09.01
+- [Why is a Java guy so excited about Node.js and JavaScript?](https://blog.sourcerer.io/why-is-a-java-guy-so-excited-about-node-js-and-javascript-7cfc423efb44)
+- [How to Write a Node.js CLI using OpenCV with Neural Network Models for Image Classification](https://itnext.io/how-to-write-a-node-js-cli-using-opencv-with-neural-network-models-for-image-classification-57785d6f09fe)
+- [JavaScript Promises with Node.js](https://itnext.io/javascript-promises-with-node-js-e8ca827e0ea3)
+- [Serverless-side rendering with Vue.js, Nuxt.js and AWS Lambda](https://dashbird.io/blog/a-crash-course-on-serverless-side-rendering-with-vuejs-nuxtjs-and-aws-lambda/)
+- [Using Feature Detection to Write CSS with Cross-Browser Support](https://css-tricks.com/using-feature-detection-to-write-css-with-cross-browser-support/)
+- [Best Practices For Mobile Form Design](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/)
+
+
 ### 2018.08.26
 - [building a simple static site generator using nodejs](https://smalldata.tech/blog/2018/08/16/building-a-simple-static-site-generator-using-node-js)
 - [Complex numbers in JavaScript](https://beta.observablehq.com/@mateogianolio/complex-numbers-in-javascript)
