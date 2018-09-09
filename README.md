@@ -2,6 +2,16 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+
+
+### 2018.09.09
+- [A tour of JavaScript timers on the web](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/)
+- [Why Async: JavaScript and the real world](https://frontarm.com/courses/async-javascript/promises/why-async/)
+- [Using the Speech Synthesis Interface of the Web Speech API](https://manu.ninja/using-the-speech-synthesis-interface-of-the-web-speech-api/)
+- [Build a Multiplayer Browser-based VR Game with A-Frame, PubNub, and WebVR](https://www.pubnub.com/blog/build-multiplayer-browser-based-vr-game-aframe-webvr/)
+- [Why you should replace forEach with map and filter in JavaScript](https://gofore.com/en/why-you-should-replace-foreach/)
+
+
 ### 2018.09.01
 - [Why is a Java guy so excited about Node.js and JavaScript?](https://blog.sourcerer.io/why-is-a-java-guy-so-excited-about-node-js-and-javascript-7cfc423efb44)
 - [How to Write a Node.js CLI using OpenCV with Neural Network Models for Image Classification](https://itnext.io/how-to-write-a-node-js-cli-using-opencv-with-neural-network-models-for-image-classification-57785d6f09fe)
