@@ -3,6 +3,13 @@ weekly
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
 
+### 2018.09.16
+- [Customise radio buttons without compromising accessibility](https://www.chenhuijing.com/blog/customise-radios-without-compromising-accessibility/#%F0%9F%8E%AE)
+- [Speedy Introduction to Web Workers](https://auth0.com/blog/speedy-introduction-to-web-workers/)
+- [How to Prevent Unsafe Redirects in Node.js](https://blog.hailstone.io/how-to-prevent-unsafe-redirects-in-node-js/)
+- [Chrome DevTools - Debugging Node.js Application Using ndb](https://nitayneeman.com/posts/debugging-nodejs-application-in-chrome-devtools-using-ndb/)
+- [Getting Started with Vue.js Plugins](https://snipcart.com/blog/vue-js-plugin)
+
 
 ### 2018.09.09
 - [A tour of JavaScript timers on the web](https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/)
