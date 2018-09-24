@@ -3,6 +3,15 @@ weekly
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
 
+
+### 2018.09.24
+- [Control Page Scroll in CSS Using Scroll Snapping](https://alligator.io/css/scroll-snapping/)
+- [Module Design](https://ponyfoo.com/articles/module-design)
+- [Unit testing for Node.js Serverless projects with Jest](https://serverless.com/blog/unit-testing-nodejs-serverless-jest/)
+- [React Native vs Ionic: Which is The Best Framework?](https://appinventiv.com/blog/react-native-vs-ionic)
+- [https://usabilitygeek.com/pareto-principle-and-ux/](https://usabilitygeek.com/pareto-principle-and-ux/)
+
+
 ### 2018.09.16
 - [Customise radio buttons without compromising accessibility](https://www.chenhuijing.com/blog/customise-radios-without-compromising-accessibility/#%F0%9F%8E%AE)
 - [Speedy Introduction to Web Workers](https://auth0.com/blog/speedy-introduction-to-web-workers/)
