@@ -4,6 +4,15 @@ weekly
 
 
 
+### 2018.09.30
+- [Guide to Mobile Video Streaming with HLS](https://mux.com/blog/mobile-hls-guide/)
+- [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
+- [30 Seconds of Code: A Curated Collection of Useful JavaScript Snippets](https://github.com/30-seconds/30-seconds-of-code)
+- [JavaScript typeof](https://blog.logrocket.com/javascript-typeof-2511d53a1a62)
+- [Demystifying The Service Worker Lifecycle](https://scotch.io/tutorials/demystifying-the-service-worker-lifecycle)
+- [Converting a WebGL application to WebVR](https://hacks.mozilla.org/2018/09/converting-a-webgl-application-to-webvr/)
+
+
 ### 2018.09.24
 - [Control Page Scroll in CSS Using Scroll Snapping](https://alligator.io/css/scroll-snapping/)
 - [Module Design](https://ponyfoo.com/articles/module-design)
