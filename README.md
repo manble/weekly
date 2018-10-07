@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.10.07
+- [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
+- [Barcode detection in a Web Worker using Comlink](https://paul.kinlan.me/barcode-detection-in-a-web-worker-using-comlink-/)
+- [Goodbye JavaScript, Hello WebAssembly](https://www.telerik.com/blogs/goodbye-javascript-hello-webassembly)
+- [Separating logic from Express routes for easier testing](https://www.coreycleary.me/separating-logic-from-express-routes-for-easier-testing/)
+- [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
+- [Building a Complex Financial Chart with D3 and d3fc](https://blog.scottlogic.com/2018/09/21/d3-financial-chart.html)
 
 
 ### 2018.09.30
