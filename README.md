@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.10.14
+- [Understanding the difference between grid-template and grid-auto](https://bitsofco.de/understanding-the-difference-between-grid-template-and-grid-auto/)
+- [How I remember CSS Grid properties](https://zellwk.com/blog/remember-css-grid-properties/)
+- [Moving Backgrounds With Mouse Position](https://css-tricks.com/moving-backgrounds-with-mouse-position/)
+- [Calls between JavaScript and WebAssembly are finally fast 🎉](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
+- [Using Winston, a versatile logging library for Node.js](https://thisdavej.com/using-winston-a-versatile-logging-library-for-node-js/)
+
+
 ### 2018.10.07
 - [A Beginner's Guide to JavaScript's Prototype](https://tylermcginnis.com/beginners-guide-to-javascript-prototype/)
 - [Barcode detection in a Web Worker using Comlink](https://paul.kinlan.me/barcode-detection-in-a-web-worker-using-comlink-/)
