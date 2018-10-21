@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.10.21
+- [Why Using reduce() to Sequentially Resolve Promises Works](https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/)
+- [5 Tips to Write Better Conditionals in JavaScript](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)
+- [Searching and sorting text with diacritical marks in JavaScript](https://thread.engineering/2018-08-29-searching-and-sorting-text-with-diacritical-marks-in-javascript/)
+- [6 Main Reasons Why Node.js Has Become a Standard Technology for Enterprise-Level Organizations](https://www.monterail.com/blog/nodejs-development-enterprises)
+- [How to bring a new tool to your team (and not get squashed in the process): 5 tips for successful adoption](https://circleci.com/blog/how-to-bring-a-new-tool-to-your-team-and-not-get-squashed-in-the-process-5-tips-for-successful-adoption/)
+
 ### 2018.10.14
 - [Understanding the difference between grid-template and grid-auto](https://bitsofco.de/understanding-the-difference-between-grid-template-and-grid-auto/)
 - [How I remember CSS Grid properties](https://zellwk.com/blog/remember-css-grid-properties/)
