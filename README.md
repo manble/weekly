@@ -2,6 +2,15 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.10.28
+- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [How to reduce the impact of JavaScript on your page load time](https://engineering.gosquared.com/improve-javascript-page-load-time)
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+- [PWA Bugs](https://github.com/PWA-POLICE/pwa-bugs)
+- [Stop building websites with infinite scroll!](https://logrocket.com/blog/infinite-scroll)
+- [JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+
 ### 2018.10.21
 - [Why Using reduce() to Sequentially Resolve Promises Works](https://css-tricks.com/why-using-reduce-to-sequentially-resolve-promises-works/)
 - [5 Tips to Write Better Conditionals in JavaScript](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)
