@@ -2,6 +2,16 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+
+### 2018.11.04
+- [copying objects in javascript](https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript)
+- [A Simple Intro to React Hooks](https://daveceddia.com/intro-to-hooks/)
+- [Concise Media Queries with CSS Grid](https://robots.thoughtbot.com/concise-media-queries-with-css-grid)
+- [NGINX Unit Now Supports TLS and JavaScript Apps with Node.js](https://www.nginx.com/blog/nginx-unit-1-5-available-now/)
+- [Creating and Reading QR Codes with Node.js](http://thecodebarbarian.com/creating-qr-codes-with-node-js.html)
+- [Learn CSS Flexbox by building a photo card component](https://freshman.tech/flexbox/)
+
+
 ### 2018.10.28
 - [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [How to reduce the impact of JavaScript on your page load time](https://engineering.gosquared.com/improve-javascript-page-load-time)
