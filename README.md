@@ -3,6 +3,14 @@ weekly
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
 
+### 2018.11.07
+- [Static Properties in JavaScript Classes with Inheritance](http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html)
+- [Advanced CSS Theming with Custom Properties and JavaScript](https://www.sitepoint.com/css-theming-custom-properties-javascript/)
+- [Use calc() to Change the Height of a Hero Component](https://css-tricks.com/fun-tip-use-calc-to-change-the-height-of-a-hero-component/)
+- [Git aliases I can't live without](http://mjk.space/git-aliases-i-cant-live-without/)
+- [Gradient Shapes](https://codepen.io/yuanchuan/full/vVRKRQ/)
+
+
 ### 2018.11.04
 - [copying objects in javascript](https://smalldata.tech/blog/2018/11/01/copying-objects-in-javascript)
 - [A Simple Intro to React Hooks](https://daveceddia.com/intro-to-hooks/)
