@@ -2,8 +2,15 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.11.18
+- [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+- [Faster async functions and promises](https://v8.dev/blog/fast-async)
+- [Handling Complex Data Integrations in JavaScript Apps](https://www.progress.com/campaigns/kinvey/handling-complex-data-integrations)
+- [THE HTML CANVAS GUIDE](https://flaviocopes.com/canvas/)
+- [How To Build A Virtual Reality Model With A Real-Time Cross-Device Preview](https://www.smashingmagazine.com/2018/11/virtual-reality-model-real-time-cross-device-preview/)
 
-### 2018.11.07
+
+### 2018.11.11
 - [Static Properties in JavaScript Classes with Inheritance](http://thecodebarbarian.com/static-properties-in-javascript-with-inheritance.html)
 - [Advanced CSS Theming with Custom Properties and JavaScript](https://www.sitepoint.com/css-theming-custom-properties-javascript/)
 - [Use calc() to Change the Height of a Hero Component](https://css-tricks.com/fun-tip-use-calc-to-change-the-height-of-a-hero-component/)
