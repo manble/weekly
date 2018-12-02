@@ -2,6 +2,20 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.12.02
+- [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
+- [Switching to Parcel from Webpack](https://logrocket.com/blog/switching-to-parcel-from-webpack/)
+- [React 16.x Roadmap](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html)
+- [ncc: Node.js Compiler Collection](https://zeit.co/blog/ncc)
+- [Testing HTTP Requests in Node.js Using Nock](https://alligator.io/nodejs/testing-http-requests-with-nock/)
+
+### 2018.11.25
+- [2018 State of JavaScript](https://2018.stateofjs.com/)
+- [Building An Interactive Infographic With Vue.js](https://www.smashingmagazine.com/2018/11/interactive-infographic-vue-js/)
+- [Why can’t we use Functional CSS and regular CSS at the same time?](https://css-tricks.com/why-cant-we-use-functional-css-and-regular-css-at-the-same-time/)
+- [Create a Serverless Powered API in 10 Minutes Using Cloudflare Workers](https://www.cloudflare.com/lp/workers/serverless-powered-api/)
+- [Highlights from Chrome Dev Summit 2018](https://bitsofco.de/chrome-dev-summit-2018/)
+
 ### 2018.11.18
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 - [Faster async functions and promises](https://v8.dev/blog/fast-async)
