@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.12.09
+- [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
+- [Preventing Content Reflow From Lazy-Loaded Images](https://css-tricks.com/preventing-content-reflow-from-lazy-loaded-images/)
+- [Build a Simple API Service with Express and GraphQL](https://www.sitepoint.com/build-a-simple-api-service-with-express-and-graphql/)
+- [Progressive Web Apps: The Case for PWAs](https://alistapart.com/article/progressive-web-apps-excerpt)
+- [Bridging the Gap Between CSS and JavaScript: CSS-in-JS](https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-in-js/)
+
+
 ### 2018.12.02
 - [An Extensive Guide To Progressive Web Applications](https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/)
 - [Switching to Parcel from Webpack](https://logrocket.com/blog/switching-to-parcel-from-webpack/)
