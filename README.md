@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.12.16
+- [An Introduction and Guide to the CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/)
+- [A CSS Venn Diagram](http://adrianroselli.com/2018/12/a-css-venn-diagram.html)
+- [Node.js API and Web Frameworks for 2019](https://checklyhq.com/blog/2018/12/node.js-api-and-web-frameworks-for-2019/)
+- [Boosting JavaScript: From MongoDB's shell to Node.js](https://www.mongodb.com/blog/post/boosting-javascript-from-mongo-shell-to-nodejs)
+- [JavaScript growth and third parties](https://speedcurve.com/blog/javascript-growth/)
+
+
 ### 2018.12.09
 - [A look at CSS Resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
 - [Preventing Content Reflow From Lazy-Loaded Images](https://css-tricks.com/preventing-content-reflow-from-lazy-loaded-images/)
