@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2018.12.23
+- [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
+- [4 Examples of Websites Based on Modular Design](https://www.a2hosting.com/blog/modular-design/)
+- [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
+- [Keep Math in the CSS](https://css-tricks.com/keep-math-in-the-css/)
+- [Learn How to Inspire Your Team, Get Out of the Weeds, and Go From Manager to Leader](https://marcusblankenship.com/lead-from-within-workshop/)
+
 ### 2018.12.16
 - [An Introduction and Guide to the CSS Object Model (CSSOM)](https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/)
 - [A CSS Venn Diagram](http://adrianroselli.com/2018/12/a-css-venn-diagram.html)
