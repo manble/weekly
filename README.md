@@ -1,6 +1,12 @@
 weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
+### 2018.12.30
+- [React v16.7: No, This Is Not The One With Hooks](https://reactjs.org/blog/2018/12/19/react-v-16-7.html)
+- [Seamless Serverless Markup with HTM](https://zeit.co/blog/seamless-serverless-markup-htm)
+- [Javascript getter-setter pyramid](https://staltz.com/javascript-getter-setter-pyramid.html)
+- [如何优雅处理前端异常？](https://blog.fundebug.com/2018/12/07/how-to-handle-frontend-error/)
+- [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 
 ### 2018.12.23
 - [The Comprehensive Guide to JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
