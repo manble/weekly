@@ -1,6 +1,14 @@
 weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
+
+### 2019.01.06
+- [The new (and old) CSS units you've never heard about](https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1)
+- [Creating and filling Arrays of arbitrary lengths in JavaScript](http://2ality.com/2018/12/creating-arrays.html)
+- [How to use Docker for Node.js development](https://cravencode.com/post/docker/nodejs-local-development/)
+- [An Overview of Buffers in Node.js](http://thecodebarbarian.com/an-overview-of-buffers-in-node-js.html)
+- [Getting Started with MongoDB – An Introduction](https://studio3t.com/knowledge-base/articles/mongodb-getting-started/)
+
 ### 2018.12.30
 - [React v16.7: No, This Is Not The One With Hooks](https://reactjs.org/blog/2018/12/19/react-v-16-7.html)
 - [Seamless Serverless Markup with HTM](https://zeit.co/blog/seamless-serverless-markup-htm)
