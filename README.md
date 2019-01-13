@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2019.01.13
+- [How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+- [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
+- [2018 JavaScript Rising Stars](https://risingstars.js.org/2018/en)
+- [How to debug Node.js in a Docker container](https://dev.to/alex_barashkov/how-to-debug-nodejs-in-a-docker-container-bhi)
+- [Will PWAs Replace Native Mobile Apps?](https://www.smashingmagazine.com/2018/12/pwa-native-mobile-apps/)
+
+
 ### 2019.01.06
 - [The new (and old) CSS units you've never heard about](https://dev.to/maxart2501/the-new-and-old-css-units-youve-never-heard-about-1mn1)
 - [Creating and filling Arrays of arbitrary lengths in JavaScript](http://2ality.com/2018/12/creating-arrays.html)
