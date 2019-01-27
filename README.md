@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2019.01.27
+- [What's New in JavaScript for 2019](https://developer.okta.com/blog/2019/01/22/whats-new-in-es2019)
+- [A Better Way to Develop Node.js with Docke](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093)
+- [Serverless Express.js with Now 2](https://zeit.co/blog/serverless-express-js-lambdas-with-now-2)
+- [Joi — awesome code validation for Node.js and Express](https://itnext.io/joi-awesome-code-validation-for-node-js-and-express-514b5570ce20)
+- [How to Stop Using Browser Dev Tools and Start Using Your Editor’s Debugger](https://www.javascriptjanuary.com/blog/how-to-stop-using-browser-devtools-and-start-using-your-editors-debugger)
+
+
 ### 2019.01.20
 - [When And How To Use CSS Multi-Column Layout](https://www.smashingmagazine.com/2019/01/css-multiple-column-layout-multicol/)
 - [An introduction to CSS Containment](https://blogs.igalia.com/mrego/2019/01/11/an-introduction-to-css-containment/)
