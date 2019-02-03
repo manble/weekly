@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2019.02.03
+- [10 Year Challenge: How Popular Websites Have Changed](https://www.arun.is/blog/10-year-challenge/)
+- [Object.assign vs Object Spread in Node.js](http://thecodebarbarian.com/object-assign-vs-object-spread.html)
+- [What is tree shaking and how does it work?](https://bitsofco.de/what-is-tree-shaking/)
+- [Future JavaScript: what is still missing?](http://2ality.com/2019/01/future-js.html)
+- [What's involved in Front End Architecture?](https://benmccormick.org/2019/01/07/the-concerns-of-fe-architecture/)
+
 ### 2019.01.27
 - [What's New in JavaScript for 2019](https://developer.okta.com/blog/2019/01/22/whats-new-in-es2019)
 - [A Better Way to Develop Node.js with Docke](https://hackernoon.com/a-better-way-to-develop-node-js-with-docker-cd29d3a0093)
