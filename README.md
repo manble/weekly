@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2019.02.10
+- [The Many Ways to Change an SVG Fill on Hover (and When to Use Them)](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/)
+- [Zipping and unzipping files with NodeJS](https://mentorcruise.com/learn/zipping-and-unzipping-files-nodejs/)
+- [What's New in ES2019: Array flat and flatMap, Object.fromEntries](http://thecodebarbarian.com/whats-new-in-es2019-flat-flatmap-catch.html)
+- [Timeseries in Redis with Streams](https://www.redisgreen.net/blog/streams-howto/)
+- [Pika/Pack: A New Approach to npm Package Building](https://www.pikapkg.com/blog/introducing-pika-pack/)
+
+
 ### 2019.02.03
 - [10 Year Challenge: How Popular Websites Have Changed](https://www.arun.is/blog/10-year-challenge/)
 - [Object.assign vs Object Spread in Node.js](http://thecodebarbarian.com/object-assign-vs-object-spread.html)
