@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2019.02.17
+- [HTML Snapshot Testing with Node](https://spin.atomicobject.com/2019/02/13/html-snapshot-testing-with-node/)
+- [Creating a Responsive Grid in React](https://www.telerik.com/blogs/creating-a-responsive-grid-in-react)
+- [你可能不熟悉的JS总结](https://segmentfault.com/a/1190000018113011)
+- [都9102年了，还问GET和POST的区别](https://segmentfault.com/a/1190000018129846)
+- [车和家CEO李想：创业20年经历的五个楼层](https://mp.weixin.qq.com/s/oNjJ-emZHomwJwZa0OB4NA)
+
+
 ### 2019.02.10
 - [The Many Ways to Change an SVG Fill on Hover (and When to Use Them)](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/)
 - [Zipping and unzipping files with NodeJS](https://mentorcruise.com/learn/zipping-and-unzipping-files-nodejs/)
