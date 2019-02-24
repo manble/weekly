@@ -2,6 +2,13 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2019.02.24
+- [For vs forEach() vs for/in vs for/of in JavaScript](http://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript.html)
+- [Fastify and Preact for quick web app prototyping](https://loige.co/fastify-and-preact-for-quick-web-app-prototyping/)
+- [Disallow large imports from JavaScript projects](https://addyosmani.com/blog/disallow-imports/)
+- [We migrated to Next.js to serve our home page 7.5× faster](https://www.manifold.co/blog/we-migrated-to-next-js-to-serve-our-home-page-7-5-faster-559443219c84)
+- [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/)
+
 ### 2019.02.17
 - [HTML Snapshot Testing with Node](https://spin.atomicobject.com/2019/02/13/html-snapshot-testing-with-node/)
 - [Creating a Responsive Grid in React](https://www.telerik.com/blogs/creating-a-responsive-grid-in-react)
