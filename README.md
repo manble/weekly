@@ -2,6 +2,14 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+
+### 2019.03.17
+- [When "Zoë" !== "Zoë". Or why you need to normalize Unicode strings](https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html)
+- [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+- [Update on Experimental Features in Node.js](https://nodesource.com/blog/experimental-features-in-node.js)
+- [KV Storage，Web 上第一个内置模块](https://www.barretlee.com/blog/2019/03/13/first-buildin-module-kv-storage/)
+- [如何理解并应用贝塞尔曲线](https://segmentfault.com/a/1190000018502700)
+
 ### 2019.03.10
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/)
 - [How to render 3D in 2D canvas](https://www.basedesign.com/blog/how-to-render-3d-in-2d-canvas)
