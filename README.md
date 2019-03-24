@@ -2,6 +2,12 @@ weekly
 =========
 收集汇总和前端开发相关的技术类文章，欢迎大家补充。
 
+### 2019.03.24
+- [Maintaining global state in AWS Lambda functions with Async Hooks](https://blog.scottlogic.com/2019/03/04/lambda-global-state.html)
+- [Building an Analytics Dashboard with Node, Express, and Cube.js](https://dev.to/cubejs/building-an-analytics-dashboard-with-node-express-and-cubejs-1oje)
+- [I Don’t Hate Arrow Functions](https://davidwalsh.name/i-dont-hate-arrow-functions)
+- [敏捷开发与动态更新在支付宝 App 内的实践](https://mp.weixin.qq.com/s/8bpC02fUHcG1Cvp_XGTtGg)
+- [Web端H.265播放器研发解密](http://taobaofed.org/blog/2019/03/18/web-player-h265/)
 
 ### 2019.03.17
 - [When "Zoë" !== "Zoë". Or why you need to normalize Unicode strings](https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html)
